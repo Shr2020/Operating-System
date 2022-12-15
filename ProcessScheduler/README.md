@@ -3,7 +3,7 @@
 1. Implement various process scheduling algorithms.
 2. The system is to be implemented using Discrete Event Simulation (DES) (http://en.wikipedia.org/wiki/Discrete_event_simulation).
 3. The scheduling algorithms to be simulated are:
-FCFS, LCFS, SRTF, RR (RoundRobin), PRIO (PriorityScheduler) and PREemptive PRIO (PREPRIO).
+**FCFS, LCFS, SRTF, RR (RoundRobin), PRIO (PriorityScheduler) and PREemptive PRIO (PREPRIO).**
 
 
 ## Building and running the scheduler simulator
